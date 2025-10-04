@@ -1,0 +1,19 @@
+🧩 Task 7: Suspicious Browser Extensions Review
+
+Analyst: Arshiya Sulthana
+Date: 02/10/2025
+Browser: microsoft edge
+
+✅ Extensions Installed:
+1. Grammarly — Safe
+2. Sider(AI)  — Safe
+3. Google Docs Offline — Safe
+
+
+⚙️ Actions Taken:
+- Removed 1 suspicious extension.
+- Restarted browser for performance improvement.
+
+🔐 Observation:
+Malicious extensions can track browsing activity or steal personal data.  
+Regularly reviewing and removing unused or unknown extensions helps keep the browser secure.
